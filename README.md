@@ -1,1 +1,2 @@
 # giphyAPI
+This is a run project that shows the power of APIS. The goal of this website is to dynamically create and post giphys to our website. We do this by using the Giphy API and some cleaver javascript. Have fun! You can add your animal to the list and get some Giphy's back!
